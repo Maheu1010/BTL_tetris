@@ -22,7 +22,7 @@ bool Tetris::init()
 	if (SDL_Init(SDL_INIT_EVERYTHING) == 0)
 	{
 		initMusic("music.flac");
-		//playMusic();
+		playMusic();
 
 		if (TTF_Init() == -1) {
 			cout << "There's an error when init TTF" << endl;
