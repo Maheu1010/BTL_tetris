@@ -3,6 +3,7 @@
 - khi kín 1 hàng hàng đó sẽ biến mất và người chơi được cộng thêm điểm
 - game kết thúc khi các khối chạm nóc
 - youtube: https://www.youtube.com/watch?v=CiU2z1tDS5Y
+- sau khi bổ sung: https://www.youtube.com/watch?v=G6okdsfnLcQ
 # 2 kĩ thuật đã sử dụng
 - mảng
 - các thư viện SDL2
